@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    background-color: #1F2937;
+    border-radius: 5px;
+}
+
+.container{
+    margin: 30px  ;
+    padding-left: 15px; 
+}
+
+h1{
+    color: white;
+    font-size: 40px;
+    margin: 0;
+}
+span{
+    color: #10B981;
+}
+p{
+    color: whitesmoke;
+    font-size: 20px;
+}
+#generate-el{
+    padding: 10px 30px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 25px;
+    background-color: #10B981; 
+}
+
+.pass{
+    display: flex;
+    justify-content: space-between;
+}
+.place{
+    width: 200px;
+    padding: 10px;
+    font-size: 20px;
+    margin: 0px 10px 0px 0px;
+    align-content: left;
+    color: #10B981;
+    background-color: #273549;
+    border: 0
+}
